@@ -1,6 +1,6 @@
-# Two of Three File Recovery Tool (Python 3)
+# 2-of-3 Recovery Tool (Python 3)
 
-**Recover an original file from 3 different corrupted copies (2-of-3 Recovery)**
+**Recover an original file from 3 different corrupted copies**
 
 Main function iterates through 3 corrupted copies and simply compares them byte-by-byte.
 If at least 2 corrupted versions have the equal value for the same byte location,
